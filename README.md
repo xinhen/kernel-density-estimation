@@ -1,2 +1,2 @@
-# kde-
+# kde
 kernel density estimate
